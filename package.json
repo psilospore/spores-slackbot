@@ -4,7 +4,8 @@
   "description": "Post JIRA states",
   "main": "index.js",
   "dependencies": {
-    "@slack/client": "^3.14.2"
+    "@slack/client": "^3.14.2",
+    "express": "^4.16.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
